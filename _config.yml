@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Andrea Benfatto
+title:            "Hello, I'm Andrea"
 tagline:          'A Jekyll theme'
 description:      'All about improving things..'
-url:              https://benfatto.me
+url:              https://andreabenfatto.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Andrea Benfatto'
   url:            https://twitter.com/benfagor
 
 paginate:         5
@@ -27,11 +27,13 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.4.1
+search_page: false
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/andreabenfatto
+  repo: https://github.com/andreabenfatto
+linkedin:
+  url: https://www.linkedin.com/in/andreabenfatto
